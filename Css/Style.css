@@ -1,0 +1,31 @@
+body{
+    background-color: lemonchiffon;
+    border: 0;
+    padding: 0;
+}
+form{
+    border-style: groove;
+    border-radius: 3%;
+    text-align: center;
+    width: 20%;
+    height: auto;
+    background-color: azure;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+form button{
+    border: none;
+    width: 30%;
+    height: 40px;
+    border-radius: 5%;
+    background-color: grey;
+    color: aliceblue;
+    margin: 5px 90px 5px ;
+}
+input{
+    border-radius: 5px;
+}
+.Encabezado{
+    background-color: slategray;
+}

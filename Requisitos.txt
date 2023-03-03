@@ -1,0 +1,18 @@
+Index
+Pagina simple con LogIn
+
+Venta
+-Encabezado:
+-Visualizador:
+-Caja de texto: ID
+-Caja de texto: Cantidad
+-Boton: Siguiente
+-Boton: Finalizar
+-Visualizador de total:
+-Imagenes:
+-Pie de pagina:
+
+Visualizador
+
+
+Editor
